@@ -17,7 +17,7 @@ Use code with caution.
 ## Usage
 1. Download the code and extract the files.
 2. Open a terminal window and navigate to the extracted folder.
-3. Run the following command: python web_scraping_tool.py
+3. Run the following command: python scraper.py
 
 ## GUI Overview
 Scrape Data
